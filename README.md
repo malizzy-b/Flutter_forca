@@ -1,5 +1,5 @@
 # Flutter_forca
 
-Jogo da forma em flutter
+Jogo da forca em flutter
 
 Nome e RA no menu drawer.
